@@ -2,6 +2,8 @@
 
 A simple Python script to visualize the 7-day moving average of daily new COVID-19 cases in Hungary with the help of folium and geopandas.
 
+See the results at [my github page] (https://imgergely.github.io/map)
+
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the requirement.
