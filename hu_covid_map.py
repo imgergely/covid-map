@@ -77,6 +77,7 @@ for column in merged.columns[9:]:
 
 TimestampedGeoJson({ 'type': 'FeatureCollection', 'features': features},period="P1D", duration="P1D",transition_time=100,  min_speed=15, max_speed=30).add_to(m)
 
+m.save("map.html")
 
 m
 
